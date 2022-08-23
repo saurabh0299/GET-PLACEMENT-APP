@@ -1,6 +1,6 @@
 # GET-PLACEMENT-APP
  
-. From a student’s perspective, placements can bring a wide range of benefits and opportunities. Training and management of placement is a crucial part of an educational institution and most of website app which are there in market for placement preparation is paid some of the student cannot paid that much money for placement preparation matreial that why i making get placement app in this application student camn get all placement related things , update, study material , video  etc;
+From a student’s perspective, placements can bring a wide range of benefits and opportunities. Training and management of placement is a crucial part of an educational institution and most of website app which are there in market for placement preparation is paid some of the student cannot paid that much money for placement preparation matreial that why i making get placement app in this application student camn get all placement related things , update, study material , video  etc;
 
 
 ![image](https://user-images.githubusercontent.com/80140167/186171634-36f30e5c-891a-4694-b5aa-b8ea44301154.png)
