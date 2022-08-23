@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/tech"
+    tools:context=".technicalTopic">
+
+    <Button
+        android:id="@+id/bu1"
+        android:layout_width="210dp"
+        android:layout_height="70dp"
+        android:layout_marginLeft="72dp"
+        android:layout_marginTop="220dp"
+        android:background="#B7CA52EC"
+        android:text="Easy Question"
+        android:textSize="23dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/bu2"
+        android:layout_width="210dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="40dp"
+        android:text="Medium Question"
+        android:textSize="22dp"
+        android:textStyle="bold"
+        android:background="#DC87FA8B"
+        android:layout_below="@+id/bu1"
+        android:layout_marginLeft="72dp"/>
+
+    <Button
+        android:id="@+id/bu3"
+        android:layout_width="210dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="40dp"
+        android:background="#FB5757"
+        android:text="Hard Question"
+        android:textSize="23dp"
+
+        android:layout_below="@+id/bu2"
+        android:textStyle="bold"
+        android:layout_marginLeft="72dp"/>
+
+
+</RelativeLayout>

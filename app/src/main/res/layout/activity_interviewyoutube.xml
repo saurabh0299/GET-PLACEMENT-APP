@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".interviewyoutube">
+
+
+
+    <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:id="@+id/y1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            app:videoId="oD5J1a3XU48"
+
+            app:autoPlay="false"
+
+
+        />
+
+
+
+
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/y2"
+            app:videoId="hq3kbSKgIAQ"
+            app:autoPlay="false"
+            android:layout_below="@+id/y1"
+            android:layout_marginTop="22dp"
+            />
+
+
+    <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/y3"
+        app:videoId="jcM8IA7dc60"
+        android:layout_below="@+id/y2"
+
+        android:layout_marginTop="22dp"
+        app:autoPlay="false"
+       />
+
+
+
+
+
+
+
+
+
+</RelativeLayout>

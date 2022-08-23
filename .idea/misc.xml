@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Saurabh/AndroidStudioProjects/PlacementPreparation/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.236" />
+        <entry key="..\:/Users/Saurabh/AndroidStudioProjects/PlacementPreparation/app/src/main/res/drawable/buttoncircle.xml" value="0.243" />
+        <entry key="..\:/Users/Saurabh/AndroidStudioProjects/PlacementPreparation/app/src/main/res/drawable/ic_launcher_background.xml" value="0.236" />
+        <entry key="..\:/Users/Saurabh/AndroidStudioProjects/PlacementPreparation/app/src/main/res/drawable/inputlogincolor.xml" value="0.236" />
+        <entry key="..\:/Users/Saurabh/AndroidStudioProjects/PlacementPreparation/app/src/main/res/drawable/lbuttoncolor.xml" value="0.236" />
+        <entry key="..\:/Users/Saurabh/AndroidStudioProjects/PlacementPreparation/app/src/main/res/drawable/rbuttoncolor.xml" value="0.236" />
+        <entry key="..\:/Users/Saurabh/AndroidStudioProjects/PlacementPreparation/app/src/main/res/layout/activity_aptitude_theory.xml" value="0.25" />
+        <entry key="..\:/Users/Saurabh/AndroidStudioProjects/PlacementPreparation/app/src/main/res/layout/activity_aptitude_video.xml" value="0.25" />
+        <entry key="..\:/Users/Saurabh/AndroidStudioProjects/PlacementPreparation/app/src/main/res/layout/activity_aptitudetheory_video.xml" value="0.25" />
+        <entry key="..\:/Users/Saurabh/AndroidStudioProjects/PlacementPreparation/app/src/main/res/layout/activity_apttitudetopiclist.xml" value="0.25" />
+        <entry key="..\:/Users/Saurabh/AndroidStudioProjects/PlacementPreparation/app/src/main/res/layout/activity_companyname.xml" value="0.25" />
+        <entry key="..\:/Users/Saurabh/AndroidStudioProjects/PlacementPreparation/app/src/main/res/layout/activity_companyname2.xml" value="0.25" />
+        <entry key="..\:/Users/Saurabh/AndroidStudioProjects/PlacementPreparation/app/src/main/res/layout/activity_interviewyoutube.xml" value="0.152" />
+        <entry key="..\:/Users/Saurabh/AndroidStudioProjects/PlacementPreparation/app/src/main/res/layout/activity_login.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/Saurabh/AndroidStudioProjects/PlacementPreparation/app/src/main/res/layout/activity_main.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/Saurabh/AndroidStudioProjects/PlacementPreparation/app/src/main/res/layout/activity_mainscreen.xml" value="0.2" />
+        <entry key="..\:/Users/Saurabh/AndroidStudioProjects/PlacementPreparation/app/src/main/res/layout/activity_placemensyllabus.xml" value="0.25" />
+        <entry key="..\:/Users/Saurabh/AndroidStudioProjects/PlacementPreparation/app/src/main/res/layout/activity_registration.xml" value="0.136" />
+        <entry key="..\:/Users/Saurabh/AndroidStudioProjects/PlacementPreparation/app/src/main/res/layout/activity_techeasy.xml" value="0.25" />
+        <entry key="..\:/Users/Saurabh/AndroidStudioProjects/PlacementPreparation/app/src/main/res/layout/activity_technical_topic.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

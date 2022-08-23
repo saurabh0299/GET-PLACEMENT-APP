@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Mainscreen">
+
+    <ImageView
+        android:id="@+id/s1"
+
+        android:layout_width="600dp"
+        android:layout_height="110dp"
+        android:src="@drawable/m1" />
+
+
+
+    <View
+        android:id="@+id/bg1"
+        android:layout_width="match_parent"
+        android:layout_height="450dp"
+        android:layout_below="@+id/s1"
+        android:background="#9AB8E9F3" />
+
+
+    <ImageView
+        android:id="@+id/s2"
+        android:layout_width="600dp"
+        android:layout_height="170dp"
+        android:layout_below="@+id/bg1"
+        android:background="@drawable/m2"
+        />
+
+
+    <TextView
+        android:id="@+id/lg1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="115dp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:layout_marginLeft="290dp"
+        android:text="LOGOUT"/>
+
+
+    <Button
+        android:id="@+id/a1"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_below="@id/s1"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/a"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        />
+
+    <Button
+        android:id="@+id/t1"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_below="@id/a1"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/t" />
+
+    <Button
+        android:id="@+id/i1"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_below="@id/t1"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/i" />
+
+    <Button
+        android:id="@+id/ss1"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_below="@id/i1"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/s" />
+
+
+
+
+
+
+
+
+
+
+</RelativeLayout>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.placementpreparation">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:configChanges="keyboardHidden|orientation|screenSize"
+        android:theme="@style/Theme.PlacementPreparation">
+        <activity
+            android:name=".interviewyoutube"
+            android:exported="false" />
+        <activity
+            android:name=".companyname2"
+            android:exported="false" />
+        <activity
+            android:name=".placemensyllabus"
+            android:exported="false" />
+        <activity
+            android:name=".TECHEASY"
+            android:exported="false" />
+        <activity
+            android:name=".technicalTopic"
+            android:exported="false" />
+        <activity
+            android:name=".AptitudeVIDEO"
+            android:exported="false" />
+        <activity
+            android:name=".AptitudeTHEORY"
+            android:exported="false" />
+        <activity
+            android:name=".Apttitudetopiclist"
+            android:exported="false" />
+        <activity
+            android:name=".AptitudetheoryVideo"
+            android:exported="false" />
+        <activity
+            android:name=".companyname"
+            android:exported="false" />
+        <activity
+            android:name=".Mainscreen"
+            android:exported="false" />
+        <activity
+            android:name=".registration"
+            android:exported="false" />
+        <activity
+            android:name=".login"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
